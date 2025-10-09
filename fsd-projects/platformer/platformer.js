@@ -42,7 +42,7 @@ createPlatform(475,121,125,19);
 
 
     // TODO 3 - Create Collectables
-createcCollectable("steve",475,121);
+//createcCollectable(steve, 475, 121);
 //createcCollectable("diamond", 500,329);
 //createcCollectable("max",123,420);
 
